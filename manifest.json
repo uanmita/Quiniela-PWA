@@ -1,0 +1,16 @@
+{
+  "name": "LA QUINIELA",
+  "short_name": "Quiniela",
+  "description": "Pronóstico deportivo de La Quiniela · LALIGA EA Sports",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a2744",
+  "theme_color": "#1a2744",
+  "orientation": "any",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "lang": "es-ES",
+  "categories": ["sports"]
+}
